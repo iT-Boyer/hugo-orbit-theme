@@ -1,0 +1,14 @@
+- id: education
+  translation: 教育
+- id: experiences
+  translation: 工作经验
+- id: interests
+  translation: 习惯爱好
+- id: language
+  translation: 语言能力
+- id: projects
+  translation: 项目经验
+- id: skills
+  translation: 技能 & 水平
+- id: summary
+  translation: 职业描述
